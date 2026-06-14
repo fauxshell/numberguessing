@@ -24,6 +24,9 @@ h4 {
 
 footer {
     color: lightgray;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 0;
 }
 
 .msg {
